@@ -1,0 +1,11 @@
+C:\TalentFlows\src\Shared\Shared.Library\bin\Debug\net8.0\Shared.Library.deps.json
+C:\TalentFlows\src\Shared\Shared.Library\bin\Debug\net8.0\Shared.Library.dll
+C:\TalentFlows\src\Shared\Shared.Library\bin\Debug\net8.0\Shared.Library.pdb
+C:\TalentFlows\src\Shared\Shared.Library\obj\Debug\net8.0\Shared.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\TalentFlows\src\Shared\Shared.Library\obj\Debug\net8.0\Shared.Library.AssemblyInfoInputs.cache
+C:\TalentFlows\src\Shared\Shared.Library\obj\Debug\net8.0\Shared.Library.AssemblyInfo.cs
+C:\TalentFlows\src\Shared\Shared.Library\obj\Debug\net8.0\Shared.Library.csproj.CoreCompileInputs.cache
+C:\TalentFlows\src\Shared\Shared.Library\obj\Debug\net8.0\Shared.Library.dll
+C:\TalentFlows\src\Shared\Shared.Library\obj\Debug\net8.0\refint\Shared.Library.dll
+C:\TalentFlows\src\Shared\Shared.Library\obj\Debug\net8.0\Shared.Library.pdb
+C:\TalentFlows\src\Shared\Shared.Library\obj\Debug\net8.0\ref\Shared.Library.dll

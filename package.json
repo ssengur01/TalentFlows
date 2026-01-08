@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^2.2.9",
+    "@hookform/resolvers": "^5.2.2",
+    "axios": "^1.13.2",
+    "lucide-react": "^0.562.0",
+    "react-hook-form": "^7.70.0",
+    "zod": "^4.3.5",
+    "zustand": "^5.0.9"
+  }
+}

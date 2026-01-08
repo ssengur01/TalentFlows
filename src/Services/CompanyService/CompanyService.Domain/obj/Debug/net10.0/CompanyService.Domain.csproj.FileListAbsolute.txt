@@ -1,0 +1,15 @@
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\bin\Debug\net10.0\CompanyService.Domain.deps.json
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\bin\Debug\net10.0\CompanyService.Domain.dll
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\bin\Debug\net10.0\CompanyService.Domain.pdb
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\bin\Debug\net10.0\Shared.Library.dll
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\bin\Debug\net10.0\Shared.Library.pdb
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\obj\Debug\net10.0\CompanyService.Domain.csproj.AssemblyReference.cache
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\obj\Debug\net10.0\CompanyService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\obj\Debug\net10.0\CompanyService.Domain.AssemblyInfoInputs.cache
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\obj\Debug\net10.0\CompanyService.Domain.AssemblyInfo.cs
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\obj\Debug\net10.0\CompanyService.Domain.csproj.CoreCompileInputs.cache
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\obj\Debug\net10.0\CompanyS.2C362892.Up2Date
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\obj\Debug\net10.0\CompanyService.Domain.dll
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\obj\Debug\net10.0\refint\CompanyService.Domain.dll
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\obj\Debug\net10.0\CompanyService.Domain.pdb
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Domain\obj\Debug\net10.0\ref\CompanyService.Domain.dll

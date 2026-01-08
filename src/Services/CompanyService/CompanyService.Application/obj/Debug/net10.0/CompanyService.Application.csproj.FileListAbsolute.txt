@@ -1,0 +1,17 @@
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\bin\Debug\net10.0\CompanyService.Application.deps.json
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\bin\Debug\net10.0\CompanyService.Application.dll
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\bin\Debug\net10.0\CompanyService.Application.pdb
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\bin\Debug\net10.0\CompanyService.Domain.dll
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\bin\Debug\net10.0\Shared.Library.dll
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\bin\Debug\net10.0\CompanyService.Domain.pdb
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\bin\Debug\net10.0\Shared.Library.pdb
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.csproj.AssemblyReference.cache
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.AssemblyInfoInputs.cache
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.AssemblyInfo.cs
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.csproj.CoreCompileInputs.cache
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\obj\Debug\net10.0\CompanyS.4B2F81A8.Up2Date
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.dll
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\obj\Debug\net10.0\refint\CompanyService.Application.dll
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\obj\Debug\net10.0\CompanyService.Application.pdb
+C:\TalentFlows\src\Services\CompanyService\CompanyService.Application\obj\Debug\net10.0\ref\CompanyService.Application.dll

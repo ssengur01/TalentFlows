@@ -1,0 +1,8 @@
+C:\TalentFlows\src\Services\JobService\JobService.API\obj\Debug\net8.0\JobService.API.csproj.AssemblyReference.cache
+C:\TalentFlows\src\Services\JobService\JobService.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\TalentFlows\src\Services\JobService\JobService.API\obj\Debug\net8.0\JobService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\TalentFlows\src\Services\JobService\JobService.API\obj\Debug\net8.0\JobService.API.AssemblyInfoInputs.cache
+C:\TalentFlows\src\Services\JobService\JobService.API\obj\Debug\net8.0\JobService.API.AssemblyInfo.cs
+C:\TalentFlows\src\Services\JobService\JobService.API\obj\Debug\net8.0\JobService.API.csproj.CoreCompileInputs.cache
+C:\TalentFlows\src\Services\JobService\JobService.API\obj\Debug\net8.0\JobService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\TalentFlows\src\Services\JobService\JobService.API\obj\Debug\net8.0\JobService.API.MvcApplicationPartsAssemblyInfo.cache

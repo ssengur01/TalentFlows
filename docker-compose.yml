@@ -1,0 +1,103 @@
+version: '3.8'
+
+services:
+  identity-db:
+    image: postgres:15-alpine
+    container_name: talentflows_identity_db
+    environment:
+      - POSTGRES_DB=identity_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - identity_db_data:/var/lib/postgresql/data
+    networks:
+      - talentflows-network
+
+  company-db:
+    image: postgres:15-alpine
+    container_name: talentflows_company_db
+    environment:
+      - POSTGRES_DB=company_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5433:5432"
+    volumes:
+      - company_db_data:/var/lib/postgresql/data
+    networks:
+      - talentflows-network
+
+  job-db:
+    image: postgres:15-alpine
+    container_name: talentflows_job_db
+    environment:
+      - POSTGRES_DB=job_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5434:5432"
+    volumes:
+      - job_db_data:/var/lib/postgresql/data
+    networks:
+      - talentflows-network
+
+  application-db:
+    image: postgres:15-alpine
+    container_name: talentflows_application_db
+    environment:
+      - POSTGRES_DB=application_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5436:5432"
+    volumes:
+      - application_db_data:/var/lib/postgresql/data
+    networks:
+      - talentflows-network
+
+  candidate-db:
+    image: postgres:15-alpine
+    container_name: talentflows_candidate_db
+    environment:
+      - POSTGRES_DB=candidate_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5435:5432"
+    volumes:
+      - candidate_db_data:/var/lib/postgresql/data
+    networks:
+      - talentflows-network
+
+  redis:
+    image: redis:7-alpine
+    container_name: talentflows_redis
+    ports:
+      - "6379:6379"
+    networks:
+      - talentflows-network
+
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: talentflows_rabbitmq
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+    ports:
+      - "5673:5672"
+      - "15673:15672"
+    networks:
+      - talentflows-network
+
+networks:
+  talentflows-network:
+    driver: bridge
+
+volumes:
+  identity_db_data:
+  company_db_data:
+  job_db_data:
+  candidate_db_data:
+  application_db_data:

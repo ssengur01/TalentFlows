@@ -1,0 +1,8 @@
+C:\TalentFlows\src\Services\CompanyService\CompanyService.API\obj\Debug\net8.0\CompanyService.API.csproj.AssemblyReference.cache
+C:\TalentFlows\src\Services\CompanyService\CompanyService.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\TalentFlows\src\Services\CompanyService\CompanyService.API\obj\Debug\net8.0\CompanyService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\TalentFlows\src\Services\CompanyService\CompanyService.API\obj\Debug\net8.0\CompanyService.API.AssemblyInfoInputs.cache
+C:\TalentFlows\src\Services\CompanyService\CompanyService.API\obj\Debug\net8.0\CompanyService.API.AssemblyInfo.cs
+C:\TalentFlows\src\Services\CompanyService\CompanyService.API\obj\Debug\net8.0\CompanyService.API.csproj.CoreCompileInputs.cache
+C:\TalentFlows\src\Services\CompanyService\CompanyService.API\obj\Debug\net8.0\CompanyService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\TalentFlows\src\Services\CompanyService\CompanyService.API\obj\Debug\net8.0\CompanyService.API.MvcApplicationPartsAssemblyInfo.cache

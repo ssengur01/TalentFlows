@@ -1,0 +1,17 @@
+C:\TalentFlows\src\Services\JobService\JobService.Application\bin\Debug\net10.0\JobService.Application.deps.json
+C:\TalentFlows\src\Services\JobService\JobService.Application\bin\Debug\net10.0\JobService.Application.dll
+C:\TalentFlows\src\Services\JobService\JobService.Application\bin\Debug\net10.0\JobService.Application.pdb
+C:\TalentFlows\src\Services\JobService\JobService.Application\bin\Debug\net10.0\JobService.Domain.dll
+C:\TalentFlows\src\Services\JobService\JobService.Application\bin\Debug\net10.0\Shared.Library.dll
+C:\TalentFlows\src\Services\JobService\JobService.Application\bin\Debug\net10.0\JobService.Domain.pdb
+C:\TalentFlows\src\Services\JobService\JobService.Application\bin\Debug\net10.0\Shared.Library.pdb
+C:\TalentFlows\src\Services\JobService\JobService.Application\obj\Debug\net10.0\JobService.Application.csproj.AssemblyReference.cache
+C:\TalentFlows\src\Services\JobService\JobService.Application\obj\Debug\net10.0\JobService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\TalentFlows\src\Services\JobService\JobService.Application\obj\Debug\net10.0\JobService.Application.AssemblyInfoInputs.cache
+C:\TalentFlows\src\Services\JobService\JobService.Application\obj\Debug\net10.0\JobService.Application.AssemblyInfo.cs
+C:\TalentFlows\src\Services\JobService\JobService.Application\obj\Debug\net10.0\JobService.Application.csproj.CoreCompileInputs.cache
+C:\TalentFlows\src\Services\JobService\JobService.Application\obj\Debug\net10.0\JobServi.AAD54A2A.Up2Date
+C:\TalentFlows\src\Services\JobService\JobService.Application\obj\Debug\net10.0\JobService.Application.dll
+C:\TalentFlows\src\Services\JobService\JobService.Application\obj\Debug\net10.0\refint\JobService.Application.dll
+C:\TalentFlows\src\Services\JobService\JobService.Application\obj\Debug\net10.0\JobService.Application.pdb
+C:\TalentFlows\src\Services\JobService\JobService.Application\obj\Debug\net10.0\ref\JobService.Application.dll

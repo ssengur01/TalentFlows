@@ -1,0 +1,15 @@
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\bin\Debug\net8.0\IdentityService.Domain.deps.json
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\bin\Debug\net8.0\IdentityService.Domain.dll
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\bin\Debug\net8.0\IdentityService.Domain.pdb
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\bin\Debug\net8.0\Shared.Library.dll
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\bin\Debug\net8.0\Shared.Library.pdb
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.csproj.AssemblyReference.cache
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.AssemblyInfoInputs.cache
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.AssemblyInfo.cs
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.csproj.CoreCompileInputs.cache
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\obj\Debug\net8.0\Identity.5533B197.Up2Date
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.dll
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\obj\Debug\net8.0\refint\IdentityService.Domain.dll
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\obj\Debug\net8.0\IdentityService.Domain.pdb
+C:\TalentFlows\src\Services\IdentityService\IdentityService.Domain\obj\Debug\net8.0\ref\IdentityService.Domain.dll
