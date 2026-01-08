@@ -1,10 +1,10 @@
-using ApplicationService.Domain.Entities;
+using ApplicationEntity = ApplicationService.Domain.Entities.Application;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApplicationService.Application.Interfaces;
 
 public interface IApplicationDbContext
 {
-    DbSet<Application> Applications { get; }
+    DbSet<ApplicationEntity> Applications { get; }
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
 }

@@ -1,6 +1,6 @@
 using ApplicationService.Application.DTOs;
 using ApplicationService.Application.Interfaces;
-using ApplicationService.Domain.Entities;
+using ApplicationEntity = ApplicationService.Domain.Entities.Application;
 using ApplicationService.Domain.Events;
 using MassTransit;
 using Microsoft.EntityFrameworkCore;
@@ -34,7 +34,7 @@ public class ApplicationApplicationService : IApplicationService
 
     public async Task<ApplicationDto> CreateAsync(CreateApplicationRequest request)
     {
-        var application = new Application
+        var application = new ApplicationEntity
         {
             Id = Guid.NewGuid(),
             TenantId = _tenantProvider.GetTenantId(),
@@ -87,7 +87,7 @@ public class ApplicationApplicationService : IApplicationService
         return MapToDto(application);
     }
 
-    private static ApplicationDto MapToDto(Application a) => new(
+    private static ApplicationDto MapToDto(ApplicationEntity a) => new(
         a.Id,
         a.JobId,
         a.CandidateId,
